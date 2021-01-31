@@ -2,7 +2,7 @@
 
 
 #### Check out some projects
-![US-Deaths-Sample-Image](https://github.com/ProfDNash/COVID-19-Project/blob/master/DeathViz/USdeaths.png | width=100)
+<img src="https://github.com/ProfDNash/COVID-19-Project/blob/master/DeathViz/USdeaths.png" width="100">
 
 <!--
 **ProfDNash/ProfDNash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

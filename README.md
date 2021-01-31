@@ -2,14 +2,14 @@
 
 
 #### Check out some projects
-<img src="https://github.com/ProfDNash/COVID-19-Project/blob/master/DeathViz/USdeaths.png" width="600">
+<img src="https://github.com/ProfDNash/COVID-19-Project/blob/master/DeathViz/USdeaths.png" width="400">
 <a href="https://github.com/ProfDNash/COVID-19-Project">COVID-19 Visualizations Project</a>
 
 <br />
 <br />
 <br />
 
-<img src="https://github.com/ProfDNash/DataScienceProjects/blob/master/LightsOut/LightsOut.gif" width="600">
+<img src="https://github.com/ProfDNash/DataScienceProjects/blob/master/LightsOut/LightsOut.gif" width="400">
 <a href="https://github.com/ProfDNash/DataScienceProjects/blob/master/LightsOut">Lights Out Simulator/Solver</a>
 <!--
 **ProfDNash/ProfDNash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
